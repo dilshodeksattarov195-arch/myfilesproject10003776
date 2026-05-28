@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "routerpelete",
+        "uuid": 32126208,
+        "checksum": "h7p30s"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
